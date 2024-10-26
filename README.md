@@ -23,7 +23,11 @@ Backend
 9. php artisan migrate
 10. php artisan serve --host=0.0.0.0 --port=8000
 
-
+How to send push notification
+1. Open the Expo Push Notification Tool - https://expo.dev/notifications
+2. Get the Expo Push Token from the database (should look something like this "ExponentPushToken[xxxxxxxxxxxxxx]")
+3. Enter a recipient(Push token), title and message
+4. (Optional) Enter a data payload if you want the notification to redirect to a specific movies' details page. The format is {"movieId": "2","screen": "MovieDetails"} change only the movieId
 
 Demonstration of push notification: https://www.youtube.com/watch?v=EZ8jcsdjS9U
 
