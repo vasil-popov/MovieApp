@@ -22,6 +22,8 @@ Backend
 8. php artisan key:generate
 9. php artisan migrate
 10. php artisan serve --host=0.0.0.0 --port=8000
+
+  
 ![Screenshot_1](https://github.com/user-attachments/assets/ef2a2969-69cf-4324-8b6f-8464ff2ee91b)
 ![Screenshot_2](https://github.com/user-attachments/assets/5a0fe1a1-7ccd-4edf-9291-f886b962e8b7)
 ![Screenshot_3](https://github.com/user-attachments/assets/2e87a3df-7120-4bce-8a45-cef911a29951)
