@@ -3,7 +3,7 @@ Frontend
 2. Android Studio/SDK - https://developer.android.com/studio
  - Set ANDROID_HOME path - https://www.ibm.com/docs/en/devops-test-ui/11.0.1?topic=prwut-setting-changing-android-home-path-in-windows-operating-systems
 3. Open MovieApp folder and run "npm install" in a terminal
-4. Chnage the ip address to your ipv4 address for the back end inside movie-list.tsx and [id].tsx
+4. Chnage the ip address to your ipv4 address for the back end inside usePushNotifications.tsx, movie-list.tsx and [id].tsx
 5. Add the api credentials for the Facebook SDK inside of app.json
 6. Set up an emulator through Android studio or use a physical device connected with a usb cable
 4. Use "npx expo start" for development build
