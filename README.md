@@ -25,7 +25,7 @@ Backend
 
 
 
-
+Demonstration of push notification: https://www.youtube.com/watch?v=EZ8jcsdjS9U
 
 ![Screenshot_1](https://github.com/user-attachments/assets/ef2a2969-69cf-4324-8b6f-8464ff2ee91b)
 ![Screenshot_2](https://github.com/user-attachments/assets/5a0fe1a1-7ccd-4edf-9291-f886b962e8b7)
