@@ -13,7 +13,7 @@ Backend
 1. Download PHP - https://windows.php.net/download#php-8.3 
 - set enivronment variable Path to PHP installation directory
 2. Download Composer - https://getcomposer.org/download/
-3. Download MySQL - https://www.mysql.com/products/workbench/
+3. Download MySQL installer - https://dev.mysql.com/downloads/
 4. Edit php.in located in your PHP directory and enable extensions - fileinfo,mysqli,pdo_mysql (depending on database)
 5. Open MovieApi folder and run these commands
 5. composer install
